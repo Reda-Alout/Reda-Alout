@@ -62,4 +62,11 @@ I am passionate about new technologies and committed to using my expertise to so
 
 📧 **Contact**  
 - **Email**: [reda6alout@gmail.com](mailto:reda6alout@gmail.com)  
-- **Location**: Casablanca, Morocco  
+- **Location**: Casablanca, Morocco
+- ## Contact
+
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:reda6alout@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/reda-alout/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=Google-Chrome&logoColor=white)](https://redaalout.netlify.app)
+[![Dev](https://img.shields.io/badge/Dev-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/reda_alout)
+
