@@ -2,7 +2,7 @@
 
 **Hi i am a software engineer**
 
-![Coding](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
+![Coding](https://github.com/Reda-Alout/Reda-Alout/blob/master/REDA%20ALOUT.png)
 
 - **Programming Languages**: Java / Python / C# / PHP
 - **Web Development**: JavaEE / Microservices / JavaScript / HTML / CSS
