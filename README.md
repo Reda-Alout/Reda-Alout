@@ -12,32 +12,10 @@ I am passionate about new technologies and committed to using my expertise to so
 
 ## ⚙️ **Technical Skills**
 
-### Programming Languages
 ![Java](https://skillicons.dev/icons?i=java) ![Python](https://skillicons.dev/icons?i=python) ![C#](https://skillicons.dev/icons?i=cs) ![PHP](https://skillicons.dev/icons?i=php)
-
-### Web Development
-![JavaEE](https://skillicons.dev/icons?i=java) ![Microservices](https://img.icons8.com/color/48/microservices.png) ![JavaScript](https://skillicons.dev/icons?i=js) ![HTML](https://skillicons.dev/icons?i=html) ![CSS](https://skillicons.dev/icons?i=css)
-
-### Frameworks
+![JavaEE](https://skillicons.dev/icons?i=java) ![JavaScript](https://skillicons.dev/icons?i=js) ![HTML](https://skillicons.dev/icons?i=html) ![CSS](https://skillicons.dev/icons?i=css)
 ![Spring Boot](https://img.icons8.com/color/48/spring-logo.png) ![Flask](https://skillicons.dev/icons?i=flask) ![ASP.NET](https://img.icons8.com/color/48/asp-net.png) ![Angular](https://skillicons.dev/icons?i=angular) ![React](https://skillicons.dev/icons?i=react)
-
-### Databases
-![SQL](https://skillicons.dev/icons?i=mysql) ![Oracle](https://img.icons8.com/color/48/oracle-logo.png) ![MSSQL](https://skillicons.dev/icons?i=mssql) ![PostgreSQL](https://skillicons.dev/icons?i=postgres)
-
-### Design & Modeling
-![UML](https://img.icons8.com/ios-filled/50/uml.png) ![Design Patterns](https://img.icons8.com/ios-filled/50/design-patterns.png)
-
-### Project Management
-![Git](https://skillicons.dev/icons?i=git) ![GitHub](https://skillicons.dev/icons?i=github)
-
-### Containerization & Deployment
-![Docker](https://skillicons.dev/icons?i=docker) ![Kubernetes](https://skillicons.dev/icons?i=kubernetes)
-
-### Continuous Integration Tools
-![Jenkins](https://skillicons.dev/icons?i=jenkins)
-
-### Testing
-![JUnit](https://img.icons8.com/fluency/48/junit5.png) ![Postman](https://skillicons.dev/icons?i=postman)
+![SQL](https://skillicons.dev/icons?i=mysql) ![Oracle](https://img.icons8.com/color/48/oracle-logo.png) ![MSSQL](https://skillicons.dev/icons?i=mssql) ![PostgreSQL](https://skillicons.dev/icons?i=postgres) ![Git](https://skillicons.dev/icons?i=git) ![GitHub](https://skillicons.dev/icons?i=github) ![Docker](https://skillicons.dev/icons?i=docker) ![Kubernetes](https://skillicons.dev/icons?i=kubernetes) ![Jenkins](https://skillicons.dev/icons?i=jenkins) ![Postman](https://skillicons.dev/icons?i=postman)
 
 
 ---
