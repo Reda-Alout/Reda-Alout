@@ -14,8 +14,8 @@ I am passionate about new technologies and committed to using my expertise to so
 
 ![Java](https://skillicons.dev/icons?i=java) ![Python](https://skillicons.dev/icons?i=python) ![C#](https://skillicons.dev/icons?i=cs) ![PHP](https://skillicons.dev/icons?i=php)
 ![JavaEE](https://skillicons.dev/icons?i=java) ![JavaScript](https://skillicons.dev/icons?i=js) ![HTML](https://skillicons.dev/icons?i=html) ![CSS](https://skillicons.dev/icons?i=css)
-![Spring Boot](https://img.icons8.com/color/48/spring-logo.png) ![Flask](https://skillicons.dev/icons?i=flask) ![ASP.NET](https://skillicons.dev/icons?i=dotnet)![Angular](https://skillicons.dev/icons?i=angular) ![React](https://skillicons.dev/icons?i=react)
-![SQL](https://skillicons.dev/icons?i=mysql) ![Oracle](https://img.icons8.com/color/48/oracle-logo.png) ![MSSQL](https://skillicons.dev/icons?i=mssql) ![PostgreSQL](https://skillicons.dev/icons?i=postgres) ![Git](https://skillicons.dev/icons?i=git) ![GitHub](https://skillicons.dev/icons?i=github) ![Docker](https://skillicons.dev/icons?i=docker) ![Kubernetes](https://skillicons.dev/icons?i=kubernetes) ![Jenkins](https://skillicons.dev/icons?i=jenkins) ![Postman](https://skillicons.dev/icons?i=postman)
+![Spring Boot](https://img.icons8.com/color/48/spring-logo.png) ![Flask](https://skillicons.dev/icons?i=flask) ![ASP.NET](https://skillicons.dev/icons?i=dotnet) ![Angular](https://skillicons.dev/icons?i=angular) ![React](https://skillicons.dev/icons?i=react)
+![SQL](https://skillicons.dev/icons?i=mysql) ![Oracle](https://img.icons8.com/color/48/oracle-logo.png) ![MSSQL](https://img.icons8.com/fluency/48/microsoft-sql-server.png) ![PostgreSQL](https://skillicons.dev/icons?i=postgres) ![Git](https://skillicons.dev/icons?i=git) ![GitHub](https://skillicons.dev/icons?i=github) ![Docker](https://skillicons.dev/icons?i=docker) ![Kubernetes](https://skillicons.dev/icons?i=kubernetes) ![Jenkins](https://skillicons.dev/icons?i=jenkins) ![Postman](https://skillicons.dev/icons?i=postman)
 
 
 ---
